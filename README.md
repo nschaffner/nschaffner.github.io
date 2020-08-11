@@ -7,8 +7,8 @@ This personal website was created to showcase my projects and abilities.
 * [JavaScript](https://www.javascript.com)
 
 ### Special Thanks
-* [HTML5 UP](html5up.net)
+* [HTML5 UP](https://html5up.net)
 * [Pexels from Pixabay](https://pixabay.com/photos/night-stars-rotation-starry-sky-1846734/)
-* [Font Awesome](fontawesome.io)
-* [jQuery](jquery.com)
-* [Responsive Tools](github.com/ajlkn/responsive-tools)
+* [Font Awesome](https://fontawesome.com/?from=io)
+* [jQuery](https://jquery.com)
+* [Responsive Tools](https://github.com/ajlkn/responsive-tools)
